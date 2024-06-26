@@ -1,0 +1,1 @@
+# soundResources for galaxy game
